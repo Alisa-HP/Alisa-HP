@@ -7,6 +7,3 @@ As a result, I believe that I have the potential to become one of the best data 
 
 This GitHub repository serves as a platform to share my projects and monitor my progress in the field of Data Analytics.
 
-
-
-ddedede
